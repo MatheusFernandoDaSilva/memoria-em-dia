@@ -1,4 +1,4 @@
-# Jogo da Memória Simples
+# Memória em dia
 
 Este é um projeto de jogo da memória simples desenvolvido utilizando HTML, CSS e JavaScript.
 
